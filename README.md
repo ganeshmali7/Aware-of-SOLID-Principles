@@ -12,8 +12,8 @@ This repository demonstrates SOLID principles using simple C# examples.
 
 | File | Description |
 |------|-------------|
-| SRP_Violated.cs | One class handling multiple responsibilities |
-| SRP_Followed.cs | Responsibilities divided into separate classes |
+| [SRP_Violated.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/SRP_Violated.cs) | One class handling multiple responsibilities |
+| [SRP_Followed.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/SRP_Followed.cs) | Responsibilities divided into separate classes |
 
 ---
 
@@ -25,8 +25,8 @@ This repository demonstrates SOLID principles using simple C# examples.
 
 | File | Description |
 |------|-------------|
-| OCP_Violated.cs | Uses conditional logic for vehicle types |
-| OCP_Followed.cs | Uses abstraction to extend behavior |
+| [OCP_Violated.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/OCP_Violated.cs) | Uses conditional logic for vehicle types |
+| [OCP_Followed.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/OCP_Followed.cs) | Uses abstraction to extend behavior |
 
 ---
 
@@ -38,8 +38,8 @@ This repository demonstrates SOLID principles using simple C# examples.
 
 | File | Description |
 |------|-------------|
-| LSP_Violated.cs | Incorrect inheritance (e.g., Bicycle with engine logic) |
-| LSP_Followed.cs | Proper abstraction & hierarchy |
+| [LSP_Violated.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/LSP_Violated.cs) | Incorrect inheritance (e.g., Bicycle with engine logic) |
+| [LSP_Followed.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/LSP_Followed.cs) | Proper abstraction & hierarchy |
 
 ---
 
@@ -51,8 +51,8 @@ This repository demonstrates SOLID principles using simple C# examples.
 
 | File | Description |
 |------|-------------|
-| ISP_Violated.cs | Fat interface with unrelated methods |
-| ISP_Followed.cs | Small, specific interfaces |
+| [ISP_Violated.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/ISP_Violated.cs) | Fat interface with unrelated methods |
+| [ISP_Followed.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/ISP_Followed.cs) | Small, specific interfaces |
 
 ---
 
@@ -64,7 +64,7 @@ This repository demonstrates SOLID principles using simple C# examples.
 
 | File | Description |
 |------|-------------|
-| DIP_Violated.cs | High-level module depends on concrete class |
-| DIP_Followed.cs | Uses interface & dependency injection |
+| [DIP_Violated.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/DIP_Violated.cs) | High-level module depends on concrete class |
+| [DIP_Followed.cs](https://github.com/ganeshmali7/Aware-of-SOLID-Principles/blob/main/DIP_Followed.cs) | Uses interface & dependency injection |
 
 ---
