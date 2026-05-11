@@ -1,4 +1,4 @@
-# 🚚 SOLID Principles in C#
+# SOLID Principles in C#
 
 This repository demonstrates SOLID principles using simple C# examples.
 
